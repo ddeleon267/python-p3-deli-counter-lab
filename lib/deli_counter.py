@@ -22,3 +22,5 @@ def now_serving(deli):
         del deli[0]
     else:
         print("There is nobody waiting to be served!")
+
+        #test
